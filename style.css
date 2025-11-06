@@ -289,6 +289,7 @@ section {
 
 .about-img img {
   width: 32vw;
+  height: 32vw;
   border: 50%;
   box-shadow: 0 0 20px var(--second-bg-color);
   transition: 0.4s ease-in-out;
@@ -927,3 +928,4 @@ footer {
     margin: 5px;
   }
 }
+
